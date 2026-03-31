@@ -21,3 +21,4 @@ Includes mandatory error propagation and rollback triggers to maintain codebase 
 
 ---
 *Developed for the Gemini CLI and Qwen Multi-Agentic Ecosystems.*
+# hive-framework
