@@ -1,0 +1,20 @@
+{
+  "mission": "Initialize Hive-Algorithm Framework",
+  "status": "In Progress",
+  "task_id": "hive-init-001",
+  "active_context": "Creating core infrastructure: LTM, STM, and Supervisor Protocols.",
+  "sub_tasks": [
+    { "id": "task-001", "description": "Initialize HIVE_STATE.json", "status": "Done" },
+    { "id": "task-002", "description": "Define Supervisor Protocols", "status": "Pending" },
+    { "id": "task-003", "description": "Create Worker Templates", "status": "Pending" }
+  ],
+  "agent_registry": {
+    "supervisor": "Gemini CLI",
+    "workers": []
+  },
+  "context_sliding_window": {
+    "current_depth": 0,
+    "max_depth": 5,
+    "summaries": []
+  }
+}
